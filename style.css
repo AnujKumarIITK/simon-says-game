@@ -1,0 +1,80 @@
+/* CSS File style.css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    background-image: url("assets/background-image.jpeg");
+    height: 90vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    background-color: #081b31;
+    color: lightcyan;
+    font-size: 2.5rem;
+    height: 5rem;
+    line-height: 5rem;
+}
+
+h2 {
+    background-color: #023041;
+    font-size: 2.1rem;
+    color: lightcyan;
+    height: 2rem;
+    line-height: 2rem;
+    display: inline;
+    padding: 10px 15px;
+    margin-top: 5rem;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border: 10px solid rgb(0, 72, 96);
+    border-radius: 20%;
+    margin: 2.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.red {
+    font-size: 3rem;
+    background-color: #d95980;
+}
+
+.yellow {
+    font-size: 3rem;
+    background-color: #f99b45;
+}
+
+.green {
+    font-size: 3rem;
+    background-color: #63aac0;
+}
+
+.purple {
+    font-size: 3rem;
+    background-color: #819ff9;
+}
+
+.flash {
+    background-color: lavender;
+}
+
+.userflash {
+    background-color: lavenderblush;
+}
+
