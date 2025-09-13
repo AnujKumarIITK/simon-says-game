@@ -1,6 +1,10 @@
 # Real-Life Simon Says Game
 
-🔹 How to Play:
+🚀 Built Real-World Frontend Project – Simon Says Game! 🎮
+
+💻Developed a desktop version of the classic Simon Says game using HTML, CSS, and JavaScript. 
+
+✨ How to Play:
 <br>
  1️⃣ ⌨ Press any key to start the game
 <br>
